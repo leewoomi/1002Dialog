@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="player">
+        <item>아이린</item>
+        <item>조이</item>
+        <item>슬기</item>
+        <item>웬디</item>
+        <item>예리</item>
+    </string-array>
+</resources>
